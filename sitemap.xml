@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://hellofello.studio/</loc>
+  <lastmod>2019-02-13T13:31:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/contact</loc>
+  <lastmod>2018-10-01T10:24:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/studio</loc>
+  <lastmod>2018-10-01T19:41:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/pipra</loc>
+  <lastmod>2018-10-01T22:37:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/kidsifu</loc>
+  <lastmod>2018-10-03T06:05:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/opasa</loc>
+  <lastmod>2018-12-27T01:01:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/IndusPeople</loc>
+  <lastmod>2018-12-27T01:49:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hellofello.studio/index.html</loc>
+  <lastmod>2019-02-13T13:31:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
